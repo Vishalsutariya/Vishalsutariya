@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Product Development, Stocks, Finance**
 
-- 📫 How to reach me **vishalsutariya12898@gmail.com**
+- 📫 Reach out me at **vishalsutariya12898@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
