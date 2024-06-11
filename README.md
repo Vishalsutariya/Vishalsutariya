@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsutariya&show_icons=true&locale=en&layout=compact" alt="vishalsutariya" /></p>
 
-<a href="https://app.daily.dev/vishalsutariya"><img src="https://api.daily.dev/devcards/v2/U98v7nMekA9IqYZ3wOItn.png?r=6sj" width="356" alt="Vishal Sutariya's Dev Card"/></a>
+<a href="https://app.daily.dev/vishalsutariya"><img src="https://api.daily.dev/devcards/v2/U98v7nMekA9IqYZ3wOItn.png?type=wide&r=tv6" width="652" alt="Vishal Sutariya's Dev Card"/></a>
